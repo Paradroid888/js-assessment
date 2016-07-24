@@ -10,6 +10,6 @@ exports.objectsAnswers = {
   },
 
   iterate: function(obj) {
-
+    //iterate over all properties in obj, returning an array of name:value
   }
 };
